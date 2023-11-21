@@ -1,1 +1,1 @@
-<button>Button test</button>
+<button className="btn btn-large">Button test</button>
