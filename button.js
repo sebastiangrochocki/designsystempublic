@@ -1,1 +1,1 @@
-<button className="btn btn-large">Button test</button>
+<button className="btn btn-large">Beaver</button>
